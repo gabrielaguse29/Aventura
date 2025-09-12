@@ -1,3 +1,6 @@
+
+
+
 body{
     background-color: rgb(47, 116, 255);
     font-family: Salsa;
@@ -13,7 +16,6 @@ button {
     background-color: #2f65bc;
     color: white;
     font-family: Salsa;
-    
 }
 
 .passo{
@@ -22,4 +24,13 @@ button {
 
 .passo.ativo{
     display: block;
+}
+
+main{
+    max-width: 90%;
+    text-align:center;
+}
+
+img{
+    max-width: 90%;
 }
